@@ -1,0 +1,52 @@
+0.8
+- ported from bfw 1.0
+- added maps
+- tweaked gold (decreased players one and increased base enemy income)
+- cleaned up code
+
+0.9
+- debugged code
+- tweaked again ai
+- maked scenarios a bit harder
+- fixed changing recruitlist saleh--kalenz--deeproots
+- added araghwaithians custom units from extended era
+- fixed elvish 'ghosts'
+
+0.9.2
+-  fixed some bugs
+- switched from cleodil to chantal since it fits timeline better
+
+0.9.5
+- complete overview of the code
+- fixed a stupid bug (salehs army get unstored and then killed...), player may now recall again veterans from firsts scenarios
+- tweaked ai and gold
+- make the recruit list more consistent with the story
+	: wose join in glyns forest (start)
+	: dwarves with bimli in dwarven path
+	: shamans with chantal and milolas after the kalian
+	: elvish militia when clearing the north lands (after north bay)
+	: ulf after meeting crenalu (need reason)
+
+0.9.6 (priority)
+- convert scenarios to the new gold carryover (done)
+- gold from saleh is keeped apart when the interlude takes place (done)
+************
+- fixed typo with sword(s)man
+
+
+TODO:
+
+- balance
+- more enemy variation?
+	: currently I feel that there a lot to many orcs
+	>> but how to insert other races?!?
+- balance
+- give saleh a full backstory, why is he exiled in the glyns forest?
+	: probaly he is a son/grandson of someone that joined Landar, but then why he helps kalenz?
+	>> he maybe helps kalenz to 'clean' up his reputation (of traitor) along the other elves...
+- balance
+- how kalenz and saleh know each other?
+- balance
+- get rid of that constant religion references...? ("Eloh , here" "Eloh, there", "I go to the spirit world" ... :(
+- balance
+- set the campaign to fit better in mainline timeline
