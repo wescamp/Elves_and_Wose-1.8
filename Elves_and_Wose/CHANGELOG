@@ -30,9 +30,12 @@
 0.9.6 (priority)
 - convert scenarios to the new gold carryover (done)
 - gold from saleh is keeped apart when the interlude takes place (done)
-************
 - fixed typo with sword(s)man
 
+0.9.7
+- 1st scenario: saleh and kalenz dont start anymore half of the map across
+- naga is at random position
+- changed 'kalenz ambush' gameplay
 
 TODO:
 
@@ -50,3 +53,5 @@ TODO:
 - get rid of that constant religion references...? ("Eloh , here" "Eloh, there", "I go to the spirit world" ... :(
 - balance
 - set the campaign to fit better in mainline timeline
+
+> for any sugestions or questions, sjrs456@yahoo.fr
