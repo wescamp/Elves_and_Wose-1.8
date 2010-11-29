@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 13:17+0200\n"
+"POT-Creation-Date: 2010-11-29 14:54+0100\n"
 "PO-Revision-Date: 2010-10-03 13:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sr@latin\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -158,7 +158,7 @@ msgstr ""
 #: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:28
 #: Elves_and_Wose/scenarios/21_Return_to_Kalian.cfg:26
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:27
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:53
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:49
 #: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:26
 #: Elves_and_Wose/scenarios/23_Reunited.cfg:38
 #: Elves_and_Wose/scenarios/15_Revelations.cfg:26
@@ -376,7 +376,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Elves_and_Wose/scenarios/8_Gitamoth_Forest.cfg:154
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:201
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:207
 #: Elves_and_Wose/scenarios/11_North_Bay.cfg:133
 #: Elves_and_Wose/scenarios/13_North_Spring.cfg:159
 #: Elves_and_Wose/scenarios/3_Glyns_Border.cfg:122
@@ -398,7 +398,7 @@ msgstr ""
 #: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:121
 #: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:179
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:111
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:214
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:210
 #: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:204
 msgid "Death of Saleh"
 msgstr ""
@@ -412,7 +412,7 @@ msgstr ""
 #: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:125
 #: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:183
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:115
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:222
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:218
 #: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:208
 msgid "Death of Greentall"
 msgstr ""
@@ -461,13 +461,13 @@ msgstr ""
 #: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:145
 #: Elves_and_Wose/scenarios/7_Gitamoth_Border.cfg:187
 #: Elves_and_Wose/scenarios/12_North_Country.cfg:131
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:226
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:222
 #: Elves_and_Wose/scenarios/22_Gitamoth_War.cfg:228
 msgid "Turns run out"
 msgstr ""
 
 #. [message]: id=Chantal
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:195
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:205
 msgid ""
 "Uradredia, I see that you have been invaded by Aragwaithians. This is bad "
 "timing, as we were coming to request troops to help us in Gitamoth and "
@@ -475,7 +475,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Uradredia
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:200
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:210
 msgid ""
 "Yes, they arrived in the middle of the night by surprise. Fortunately, the "
 "weather was harsh, and many of their ships have either wrecked, or have been "
@@ -484,41 +484,41 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:205
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:215
 msgid "We can help!"
 msgstr ""
 
 #. [message]: id=Uradredia
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:210
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:220
 msgid "Excellent!"
 msgstr ""
 
 #. [message]: id=Merdor
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:215
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:225
 msgid ""
 "Silence elves! The Aragwaith are here to lay claim on our rightful lands. "
 "Either leave, or prepare to die!"
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:223
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:233
 msgid ""
 "We still haven't defeated the enemy and our troops and supplies are "
 "exhausted. This is the end!"
 msgstr ""
 
 #. [message]: speaker=Saleh
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:234
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:244
 msgid "Go back to your homes Aragwaithian invaders!!"
 msgstr ""
 
 #. [message]: speaker=Uradredia
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:243
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:253
 msgid "So tell me, what brings the elves of Wesmere to the North?"
 msgstr ""
 
 #. [message]: speaker=Chantal
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:248
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:258
 msgid ""
 "We actually came to seek your help. There is trouble brewing in the lands to "
 "the south. We fear that Iradia may be making a move to have Kalenz murdered "
@@ -528,31 +528,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Uradredia
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:253
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:263
 msgid ""
 "Well, we have defended North Bay. But there are more invaders inland. Help "
 "us push them out, and we will be free to help you in the South."
 msgstr ""
 
 #. [message]: speaker=Uradredia
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:258
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:268
 msgid ""
 "I knew Iradia could not be trusted. Well, we will see to it that Kalenz is "
 "restored to power and Iradia is locked away.."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:287
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:302
 msgid "Look there is someone trapped"
 msgstr ""
 
 #. [message]: role=naga
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:308
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:324
 msgid "Ah I'm finished"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Elves_and_Wose/scenarios/11_North_Bay.cfg:312
+#: Elves_and_Wose/scenarios/11_North_Bay.cfg:328
 msgid "We may view for your wounds"
 msgstr ""
 
@@ -847,7 +847,7 @@ msgstr ""
 
 #. [side]: type=Elder Mage, id=Crelanu
 #. [unit]: type=Elder Mage, id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:39
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:40
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:193
 #: Elves_and_Wose/scenarios/19_Recuperating.cfg:33
 #: Elves_and_Wose/scenarios/16_Kings_Courtyard.cfg:68
@@ -862,7 +862,7 @@ msgid "Defeat all Enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:213
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:219
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:169
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:338
 #: Elves_and_Wose/scenarios/14_Visiting_Crelanu.cfg:141
@@ -1207,89 +1207,94 @@ msgstr ""
 #: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:26
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:301
 #: Elves_and_Wose/scenarios/19_Recuperating.cfg:22
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:75
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:71
 #: Elves_and_Wose/scenarios/23_Reunited.cfg:53
 msgid "Kalenz"
 msgstr ""
 
 #. [objective]: condition=win
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:205
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:211
 msgid "Last for 25 turns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:209
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:215
 #: Elves_and_Wose/scenarios/20_Return_to_Glyns_Castle.cfg:342
 #: Elves_and_Wose/scenarios/2_Glyns_Castle.cfg:161
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:218
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:214
 msgid "Death of Kalenz"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:234
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:300
 msgid "It's another Ambush! Someone must really have it out for me!"
 msgstr ""
 
+#. [message]: role=cavalry
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:307
+msgid "The humans are here to protect the High Lord of Wesmere."
+msgstr ""
+
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:238
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:311
 msgid ""
 "Kalenz, I have come to provide you help in escaping this ambush. I have "
 "enlisted the help of some humans by order of King Konrad II."
 msgstr ""
 
-#. [unit]: id=Aldun, type=Horseman
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:249
-msgid "Aldun"
-msgstr ""
-
-#. [message]: id=Aldun
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:263
-msgid "The humans are here to protect the High Lord of Wesmere."
-msgstr ""
-
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:267
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:315
 msgid ""
 "The Elder Mage Crelanu? Here to protect me? I didn't realize you still "
 "existed, if you will pardon my frankness."
 msgstr ""
 
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:271
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:319
 msgid ""
 "I'll explain that later. Now we must focus on one thing: survival. After "
 "that, I will explain everything."
 msgstr ""
 
+#. [message]: id=Crelanu
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:323
+msgid "Run, get help of the southern clan. We need any help possible"
+msgstr ""
+
+#. [message]: role=horseman
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:327
+msgid "Sir, I'll not disapoint you"
+msgstr ""
+
 #. [unit]: id=Lord Halloran, type=Grand Knight
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:281
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:347
 msgid "Lord Halloran"
 msgstr ""
 
 #. [message]: id=Lord Halloran
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:335
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:423
 msgid "We have been called by our king to protect the High Lord Kalenz."
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:339
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:427
 msgid ""
 "Your assistance is most welcome! The kindness of the king will be reported "
 "in Wesmere."
 msgstr ""
 
 #. [message]: id=Lord Halloran
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:343
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:431
 msgid "DIE ORCS!"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:351
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:439
 msgid "There are so many, I don't know how long we can hold!"
 msgstr ""
 
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:355
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:443
 msgid ""
 "I was afraid of that! (**thinking to self**)  I have no choice, but to use "
 "my book. There was once a battle here on this field. Today, I will raise the "
@@ -1297,29 +1302,44 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Korrigan
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:538
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:626
 msgid "Crelanu, we are hear at your summoning to protect Kalenz."
 msgstr ""
 
 #. [message]: id=Tan-Grub
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:542
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:630
 msgid ""
 "Who said that? The crazy mage has opened the door to the Spirit World! We "
 "are doomed!"
 msgstr ""
 
+#. [message]
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:655
+msgid "This is our Land!"
+msgstr ""
+
+#. [message]: id=Kalenz
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:659
+msgid "Then help us defend it"
+msgstr ""
+
+#. [message]
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:663
+msgid "Huh? Well, how is it known, <i>the enemy of my enemy...</i>"
+msgstr ""
+
 #. [message]: speaker=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:553
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:674
 msgid "We cannot continue without Crelanu!"
 msgstr ""
 
 #. [message]: speaker=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:564
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:685
 msgid "We have stopped the orcs and trolls! They are running for the hills "
 msgstr ""
 
 #. [message]: speaker=unit
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:579
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:700
 msgid "I should have stayed in the mountains and lived in peace."
 msgstr ""
 
@@ -1412,7 +1432,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:35
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:31
 msgid ""
 "Kalenz and Saleh were traveling along a tributary of the Great River in "
 "Glyn's Forest, catching up on old times, when Saleh commented, 'Being close "
@@ -1422,31 +1442,31 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:41
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:37
 msgid ""
 "As they were talking, they failed to notice the fact that they had wandered "
 "directly into a Saurian and Orc ambush..."
 msgstr ""
 
 #. [objective]: condition=win
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:210
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:206
 msgid "Defeat Enemy Leaders"
 msgstr ""
 
 #. [message]: id=Shunar
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:243
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:239
 msgid ""
 "Well, well! If it issssssssn't the fabled Kalenz! Once we kill you, it will "
 "be much eassssier to overtake lands of Wesnoth!"
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:248
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:244
 msgid "Oh no! Where did all of these Saurians and Orcs come from?"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:253
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:249
 msgid ""
 "It looks like they were tipped off that I would be passing through Glyn's "
 "Forest alone. Since I have decided to make this trip inconspicously, I have "
@@ -1456,7 +1476,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:258
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:254
 msgid ""
 "I am not quite ready to die yet, comrade. We have friends here that these "
 "intruders have not yet noticed. Greentall, are you there?"
@@ -1466,68 +1486,68 @@ msgstr ""
 #. [unit]: type=Elder Wose, id=Greentall
 #: Elves_and_Wose/scenarios/5_Troll_Mountain.cfg:105
 #: Elves_and_Wose/scenarios/6_Troll_Road.cfg:111
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:264
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:260
 msgid "Greentall"
 msgstr ""
 
 #. [message]: id=Greentall
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:278
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:288
 msgid ""
 "Hmmmm? Did someone say it is time to kill some Saurians? That sounds like "
 "fun. Oh, and I have some friends here who would like to join us."
 msgstr ""
 
 #. [message]: id=Shunar
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:283
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:293
 msgid "Curssssesss! The wosssse are here!"
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:288
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:298
 msgid ""
 "Kalenz, we may live through this day afterall. The wose will fight by our "
 "side!"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:293
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:303
 msgid ""
 "Your help is indeed most welcome. You will be rewarded by Wesmere for your "
 "services."
 msgstr ""
 
 #. [message]: id=Greentall
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:298
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:308
 msgid ""
 "We only ask that you acknowledge our role in upholding an ancient alliance "
 "between our people."
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:303
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:313
 msgid "Consider your actions noted!"
 msgstr ""
 
 #. [message]: id=Saleh
 #: Elves_and_Wose/scenarios/4_Dwarven_Path.cfg:192
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:311
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:324
 msgid "Oh, no! More of them are pouring in, we are too late..."
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:320
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:333
 msgid ""
 "Greentall, we are in your debt for helping us survive this dreadful and "
 "unexpected day."
 msgstr ""
 
 #. [message]: id=Greentall
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:325
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:338
 msgid "That is what old alliances are for I guess."
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:330
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:343
 msgid ""
 "Well, now I feel that I must return to the Ka'lian. Who knows what other "
 "surprises are in store for me, if I continue alone. There will surely be "
@@ -1537,7 +1557,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Saleh
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:335
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:348
 msgid ""
 "Wait. Why don't we ask the leader of the wose to give you protection on your "
 "way to Weldyn? He can surely spare some soldiers. I can go to the Ka'lian to "
@@ -1546,7 +1566,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:340
+#: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg:353
 msgid ""
 "I guess it wouldn't hurt to ask. Saleh, you truly are a great and thougtful "
 "friend."
