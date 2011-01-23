@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-29 14:54+0100\n"
+"POT-Creation-Date: 2011-01-23 19:18+0100\n"
 "PO-Revision-Date: 2010-10-03 13:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1225,75 +1225,75 @@ msgid "Death of Kalenz"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:300
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:299
 msgid "It's another Ambush! Someone must really have it out for me!"
 msgstr ""
 
 #. [message]: role=cavalry
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:307
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:306
 msgid "The humans are here to protect the High Lord of Wesmere."
 msgstr ""
 
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:311
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:310
 msgid ""
 "Kalenz, I have come to provide you help in escaping this ambush. I have "
 "enlisted the help of some humans by order of King Konrad II."
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:315
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:314
 msgid ""
 "The Elder Mage Crelanu? Here to protect me? I didn't realize you still "
 "existed, if you will pardon my frankness."
 msgstr ""
 
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:319
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:318
 msgid ""
 "I'll explain that later. Now we must focus on one thing: survival. After "
 "that, I will explain everything."
 msgstr ""
 
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:323
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:322
 msgid "Run, get help of the southern clan. We need any help possible"
 msgstr ""
 
 #. [message]: role=horseman
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:327
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:326
 msgid "Sir, I'll not disapoint you"
 msgstr ""
 
 #. [unit]: id=Lord Halloran, type=Grand Knight
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:347
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:346
 msgid "Lord Halloran"
 msgstr ""
 
 #. [message]: id=Lord Halloran
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:423
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:422
 msgid "We have been called by our king to protect the High Lord Kalenz."
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:427
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:426
 msgid ""
 "Your assistance is most welcome! The kindness of the king will be reported "
 "in Wesmere."
 msgstr ""
 
 #. [message]: id=Lord Halloran
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:431
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:430
 msgid "DIE ORCS!"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:439
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:438
 msgid "There are so many, I don't know how long we can hold!"
 msgstr ""
 
 #. [message]: id=Crelanu
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:443
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:442
 msgid ""
 "I was afraid of that! (**thinking to self**)  I have no choice, but to use "
 "my book. There was once a battle here on this field. Today, I will raise the "
@@ -1301,44 +1301,44 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Korrigan
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:626
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:625
 msgid "Crelanu, we are hear at your summoning to protect Kalenz."
 msgstr ""
 
 #. [message]: id=Tan-Grub
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:630
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:629
 msgid ""
 "Who said that? The crazy mage has opened the door to the Spirit World! We "
 "are doomed!"
 msgstr ""
 
 #. [message]
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:655
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:654
 msgid "This is our Land!"
 msgstr ""
 
 #. [message]: id=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:659
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:658
 msgid "Then help us defend it"
 msgstr ""
 
 #. [message]
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:663
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:662
 msgid "Huh? Well, how is it known, <i>the enemy of my enemy...</i>"
 msgstr ""
 
 #. [message]: speaker=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:674
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:673
 msgid "We cannot continue without Crelanu!"
 msgstr ""
 
 #. [message]: speaker=Kalenz
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:685
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:684
 msgid "We have stopped the orcs and trolls! They are running for the hills "
 msgstr ""
 
 #. [message]: speaker=unit
-#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:700
+#: Elves_and_Wose/scenarios/18_Kalenz_Ambushed.cfg:699
 msgid "I should have stayed in the mountains and lived in peace."
 msgstr ""
 
