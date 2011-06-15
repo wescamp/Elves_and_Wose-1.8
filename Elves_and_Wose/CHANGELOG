@@ -13,7 +13,7 @@
 - fixed elvish 'ghosts'
 
 0.9.2
--  fixed some bugs
+- fixed some bugs
 - switched from cleodil to chantal since it fits timeline better
 
 0.9.5
@@ -27,7 +27,7 @@
 	: elvish militia when clearing the north lands (after north bay)
 	: ulf after meeting crenalu (need reason)
 
-0.9.6 (priority)
+0.9.6
 - convert scenarios to the new gold carryover (done)
 - gold from saleh is keeped apart when the interlude takes place (done)
 - fixed typo with sword(s)man
@@ -40,21 +40,32 @@
 0.9.8
 - fixed typos in 3 maps
 
-TODO:
+0.9.9
+-
 
-- balance
-- more enemy variation?
-	: currently I feel that there a lot to many orcs
-	>> but how to insert other races?!?
-- balance
-- give saleh a full backstory, why is he exiled in the glyns forest?
-	: probaly he is a son/grandson of someone that joined Landar, but then why he helps kalenz?
-	>> he maybe helps kalenz to 'clean' up his reputation (of traitor) along the other elves...
-- balance
-- how kalenz and saleh know each other?
-- balance
-- get rid of that constant religion references...? ("Eloh , here" "Eloh, there", "I go to the spirit world" ... :(
-- balance
-- set the campaign to fit better in mainline timeline
+>  2_Glyns_Castle.cfg
+　 Line 187 : id=kalenz → id=Kalenz
+»» fixed
 
-> for any sugestions or questions, sjrs456@yahoo.fr
+>  8_Gitamoth_Forest.cfg
+　 "filter" tags around line 260 should be commented out,
+　 because they interrupt the "enemies defeated" event.
+»» fixed
+
+>  13_North_Spring.cfg
+　 Around Line 45, name defining script should be inserted.
+　 name=_"Uradredia"
+»» added name
+
+>  21_Return_to_Kalian.cfg
+　 {NEW_LEADER (...)} in Line 84 kills all side 1 units except for Saleh.
+　 Accounting for the meaning of the code, it seems to be unintended.
+　 So I think the line should be commented out.
+　 I've tested and think that the change makes no harm in proceeding the campaign.
+»» Macro is correct
+
+There could be some points to be improved but it doesn't matter so much.
+»» critics are always welcome
+
+I enjoyed the campaign and hope it maintained long.
+»» Thanks
